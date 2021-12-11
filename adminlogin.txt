@@ -1,0 +1,7 @@
+/admin
+/login
+/admin.php
+/login.php
+/admin.html
+/login.html
+
